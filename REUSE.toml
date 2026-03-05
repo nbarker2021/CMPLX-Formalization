@@ -1,0 +1,59 @@
+# REUSE compliance configuration for CMPLX
+# See: https://reuse.software/
+
+version = 1
+
+[[annotations]]
+path = "**"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "docs/**"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "scripts/**"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "config/**"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "docker/**"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "src/**"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "**.py"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "**.md"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "**.yml"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "**.yaml"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"
+
+[[annotations]]
+path = "**.json"
+SPDX-FileCopyrightText = "2026 CMPLX Contributors"
+SPDX-License-Identifier = "CRL-1.0"

@@ -1,0 +1,29 @@
+﻿CMPLX Research License (CRL-1.0)
+
+Copyright (c) 2026 CMPLX Contributors
+
+This software is licensed exclusively for NON-COMMERCIAL RESEARCH AND 
+ACADEMIC PURPOSES. Commercial use, including profit-generating activities, 
+is STRICTLY PROHIBITED.
+
+RESTRICTIONS:
+1. NO COMMERCIAL USE - You may not use this software for commercial purposes
+2. NO PROFIT - You may not generate revenue from this software  
+3. NO PATENTS - You may not patent this software or derivatives
+4. RESEARCH ONLY - Academic and research use only
+
+You may:
+- Use for non-commercial research
+- Reproduce and distribute for research
+- Create derivative works for research
+- Publicly display for educational purposes
+
+You must:
+- Include this license with all distributions
+- Provide attribution in publications
+- Share derivatives under same license
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHORS ASSUME NO LIABILITY FOR DAMAGES.
+
+See LICENSE.md for complete terms.

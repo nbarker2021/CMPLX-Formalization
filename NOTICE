@@ -1,0 +1,59 @@
+CMPLX Computational Framework
+Copyright (c) 2026 CMPLX Contributors
+
+================================================================================
+                            IMPORTANT LEGAL NOTICE
+================================================================================
+
+LICENSE: CMPLX Research License (CRL-1.0)
+
+This software is licensed EXCLUSIVELY for NON-COMMERCIAL RESEARCH AND 
+ACADEMIC PURPOSES. Commercial use, including profit-generating activities, 
+is STRICTLY PROHIBITED.
+
+See LICENSE.md for complete terms and conditions.
+
+================================================================================
+                              RESTRICTIONS
+================================================================================
+
+BY USING THIS SOFTWARE, YOU AGREE THAT YOU WILL NOT:
+
+1. Use this software for any commercial purpose
+2. Sell, rent, lease, or sublicense this software
+3. Generate revenue from this software
+4. File for patents on this software or derivatives
+5. Remove or alter copyright notices
+6. Use for military or surveillance applications
+
+================================================================================
+                           ATTRIBUTION REQUIRED
+================================================================================
+
+Any publication or presentation using this software MUST cite:
+
+    CMPLX Framework (https://github.com/nbarker2021/CMPLX-1T)
+    Licensed under CMPLX Research License (CRL-1.0)
+
+================================================================================
+                         DISCLAIMER OF WARRANTY
+================================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+THE AUTHORS AND COPYRIGHT HOLDERS ASSUME NO LIABILITY FOR DAMAGES ARISING
+FROM THE USE OF THIS SOFTWARE.
+
+================================================================================
+                          COMPLIANCE WARNING
+================================================================================
+
+Violation of these terms will result in immediate license termination and
+may result in legal action.
+
+For questions about permitted uses, see LICENSE.md or contact the project
+maintainers through the repository.
+
+================================================================================

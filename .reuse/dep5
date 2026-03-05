@@ -1,0 +1,34 @@
+﻿Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: CMPLX
+Upstream-Contact: CMPLX Contributors <https://github.com/nbarker2021/CMPLX-1T>
+Source: https://github.com/nbarker2021/CMPLX-1T
+
+# Main license
+Files: *
+Copyright: 2026 CMPLX Contributors
+License: CRL-1.0
+
+# Documentation
+Files: docs/* *.md
+Copyright: 2026 CMPLX Contributors
+License: CRL-1.0
+
+# Configuration files
+Files: config/* configs/* config-system/*
+Copyright: 2026 CMPLX Contributors
+License: CRL-1.0
+
+# Scripts
+Files: scripts/*
+Copyright: 2026 CMPLX Contributors
+License: CRL-1.0
+
+# Docker files
+Files: docker/* Dockerfile* docker-compose*
+Copyright: 2026 CMPLX Contributors
+License: CRL-1.0
+
+# Python source
+Files: src/* CMPLXAgent/* cmplx_*/
+Copyright: 2026 CMPLX Contributors
+License: CRL-1.0
