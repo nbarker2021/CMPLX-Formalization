@@ -1,0 +1,37 @@
+﻿# Formalization Repository Ignore Rules
+
+# Build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Large binary files (originals stay in CMPLX-1T)
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+
+# Extracted content (processed to markdown)
+source-docs/extracted/*/
+!source-docs/extracted/.gitkeep
